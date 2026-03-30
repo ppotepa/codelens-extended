@@ -1,4 +1,5 @@
-# 🔍 CodeLens - Supercharge Your LLM Coding Experience
+# 🔍 CodeLens - Supercharge Your LLM Coding Experience - Fork 
+(trying to make it actually a local server that does stuff and exposes an API)
 
 CodeLens is your AI coding assistant's best friend - an intelligent code analysis tool that transforms your codebase into LLM-optimized context. Stop wasting tokens on irrelevant files or struggling to explain your project structure. CodeLens does the heavy lifting, so you can focus on building great software.
 
